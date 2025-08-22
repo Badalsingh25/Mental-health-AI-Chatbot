@@ -5,3 +5,4 @@
 dataset.zip filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 >>>>>>> 2604748ac9c71435da36ba353688188078e1224d
+assets/meditation.mp4 filter=lfs diff=lfs merge=lfs -text
