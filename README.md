@@ -3,11 +3,14 @@
 
 ---
 
-![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-black?logo=flask&logoColor=white)   
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-black?logo=flask&logoColor=white" />
+</p>
+  
 
 ---
 
