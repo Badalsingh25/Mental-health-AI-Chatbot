@@ -34,15 +34,24 @@ It helps users manage their mental health by offering **conversations, emotion t
 
 ---
 
-## 📸 Screenshots  
+## 📸 Screenshots 
+
+<img width="1899" height="808" alt="Screenshot 2025-08-25 091858" src="https://github.com/user-attachments/assets/f7c19a97-9c69-4a4b-8a81-2fea51fa9f40" />
 
 1️⃣ Home Dashboard  
-2️⃣ Chatbot Conversation Window  
+<img width="1844" height="895" alt="Screenshot 2025-08-25 092337" src="https://github.com/user-attachments/assets/8f2be580-a28e-47d7-803e-405858fce272" />
+2️⃣ Chatbot Conversation Window 
+<img width="1888" height="751" alt="Screenshot 2025-08-25 092911" src="https://github.com/user-attachments/assets/940a1d53-2430-498d-a5cb-dc496cbc67d4" />
 3️⃣ Emotion Detection (Webcam/Text)  
+<img width="1890" height="897" alt="Screenshot 2025-08-25 092106" src="https://github.com/user-attachments/assets/c71918a7-33e7-464f-86ec-362dfc2d0f33" />
 
-4️⃣ Meditation Timer  
-  
+4️⃣ Meditation Timer
+<img width="1890" height="902" alt="Screenshot 2025-08-25 092143" src="https://github.com/user-attachments/assets/8c166ce9-e294-4ca8-b7d1-59c5ca8eeb14" />
 
+5️⃣Our Mission  
+![Uploading Screenshot 2025-08-25 091932.png…]()
+
+6️⃣How MindEase Works
 ---
 
 ## 🚀 Tech Stack  
