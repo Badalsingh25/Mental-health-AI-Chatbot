@@ -39,8 +39,8 @@ It helps users manage their mental health by offering **conversations, emotion t
 
 🔹 Restaurant Owner screenshots
 
-1️⃣ Restaurant Profile Management
 
+1️⃣ Restaurant Profile Management
 
 <img width="1899" height="808" alt="Screenshot 2025-08-25 091858" src="https://github.com/user-attachments/assets/f7c19a97-9c69-4a4b-8a81-2fea51fa9f40" />
 
@@ -57,7 +57,9 @@ It helps users manage their mental health by offering **conversations, emotion t
 <img width="1890" height="897" alt="Screenshot 2025-08-25 092106" src="https://github.com/user-attachments/assets/c71918a7-33e7-464f-86ec-362dfc2d0f33" />
 
 ```
+
 🔹 Admin ‑side screenshots
+
 
 1️⃣ User & Role Management 
 
@@ -78,6 +80,7 @@ It helps users manage their mental health by offering **conversations, emotion t
 ```
 
 🔹 Customer‑side screenshots
+
 
 1️⃣ Home / Landing Page 
 
@@ -102,6 +105,7 @@ It helps users manage their mental health by offering **conversations, emotion t
 ```
 
 🔹 Delivery Agent
+
 
 1️⃣ Assigned Orders Management
 
